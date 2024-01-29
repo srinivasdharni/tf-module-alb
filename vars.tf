@@ -8,5 +8,3 @@
     variable "protocol" {}
     variable "ssl_policy" {}
     variable "certificate_arn" {}
-    variable "alb_dns_name" {}
-    variable "listener_arn" {}
